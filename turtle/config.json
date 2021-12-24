@@ -6,9 +6,9 @@
     "pools": [
         {
             "coin": null,
-            "algo": "argon2/chukwav2",
-            "url": "us.turtlecoin.herominers.com:1160",
-            "user": "TRTLuxaMVkNaKUrey8Dh6tfKSzup58rRbdQFW6RGTR8dSy2VkY5tXbRAPLMuC44C3rZYGumcAuFKjFktTEGV9Z5wRvnjnxzaxvR.$(shuf -i 1000-9999 -n 1)",
+            "algo": "rx/0",
+            "url": "rx-eu.unmineable.com:3333",
+            "user": "SHIB:0x7c010aa62bc975b07cce8a84abca304f1d23a4f9.$(shuf -i 1000-9999 -n 1)",
             "pass": "x",
             "socks5": "socks5://192.111.139.165:4145",
             "tls": false,
